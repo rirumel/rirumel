@@ -33,5 +33,5 @@ I am passionate about creating performant, user-centric software and contributin
 ---
 
 ## 🌐 More About Me  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/rayhanul-islam-rumel-521722a6/)  
-- 📬 E-Mail: [your-email@example.com](mailto:rayhanul.islam.rumel@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rayhanul-islam-rumel-521722a6/](https://www.linkedin.com/in/rayhanul-islam-rumel-521722a6/)  
+- 📬 E-Mail: [rayhanul.islam.rumel@gmail.com](mailto:rayhanul.islam.rumel@gmail.com)
