@@ -38,8 +38,8 @@ AI-powered process mining dashboard that turns raw event logs into bottleneck re
 `Next.js 14` `React Flow` `TypeScript` `Anthropic Claude API`
 
 ### [NestCare](https://nestcare-five.vercel.app) · [GitHub](https://github.com/rirumel/nestcare)
-Tenant issue reporter with n8n workflow automation delivering real-time WhatsApp and email notifications.
-`Next.js 14` `TypeScript` `n8n` `Twilio` `Gmail OAuth2`
+Smart property maintenance platform where tenants submit issues via a web form, and an n8n automation pipeline instantly sends WhatsApp (Twilio) and email notifications to both tenant and landlord. A Python/FastAPI ML engine runs anomaly detection, trend analysis, and predictive maintenance forecasting on report history, while an Anthropic Claude-powered AI Insight Narrator explains dashboard charts in plain language — in English and German with browser TTS.
+`Next.js 14` `TypeScript` `Python` `FastAPI` `PostgreSQL` `Scikit-learn` `Anthropic Claude API` `n8n` `Twilio` `Gmail OAuth2` `Vercel` `Railway`
 
 ---
 
