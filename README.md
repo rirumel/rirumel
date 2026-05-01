@@ -14,7 +14,7 @@ Vue 3 · Nuxt 4 · React · Next.js · Angular · TypeScript · Vuetify 4 · Tai
 Node.js · Express.js · Google Cloud Functions · Firebase · WebSocket · REST APIs
 
 **Databases**
-MongoDB · SQL · Firebase Firestore
+MongoDB · SQL · Firebase Firestore · PostgreSQL
 
 **AI & Integrations**
 OpenAI API · Anthropic Claude API · D-ID · Synthesia · n8n · Twilio
