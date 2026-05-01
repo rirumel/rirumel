@@ -68,10 +68,14 @@ Home to CISPA, one of Europe's leading cybersecurity research centres.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rirumel&layout=compact&theme=default&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rirumel&show_icons=true&count_private=true&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rirumel&theme=radical)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rirumel&theme=radical)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rirumel&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rirumel&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
